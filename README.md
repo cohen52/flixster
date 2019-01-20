@@ -15,7 +15,7 @@
 
 ### App Walkthough GIF
 
-<img src="/Users/maxcohen/Documents/Semester 4/CS 490/flixster/flixster_demo.gif" width=250><br>
+<img src="https://github.com/cohen52/flixster/blob/master/flixster_demo.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
